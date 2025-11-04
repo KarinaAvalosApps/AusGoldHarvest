@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "symbols_low-0.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 464,
+				"h": 166
+			},
+			"scale": 0.5,
+			"frames": [
+				{
+					"filename": "sym_5_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 91,
+						"h": 65
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 91,
+						"h": 65
+					}
+				},
+				{
+					"filename": "sym_2_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 3,
+						"w": 71,
+						"h": 77
+					},
+					"frame": {
+						"x": 94,
+						"y": 1,
+						"w": 71,
+						"h": 77
+					}
+				},
+				{
+					"filename": "sym_4_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 2,
+						"w": 69,
+						"h": 77
+					},
+					"frame": {
+						"x": 167,
+						"y": 1,
+						"w": 69,
+						"h": 77
+					}
+				},
+				{
+					"filename": "sym_1_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 1,
+						"w": 56,
+						"h": 80
+					},
+					"frame": {
+						"x": 238,
+						"y": 1,
+						"w": 56,
+						"h": 80
+					}
+				},
+				{
+					"filename": "sym_3_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 1,
+						"w": 72,
+						"h": 80
+					},
+					"frame": {
+						"x": 296,
+						"y": 1,
+						"w": 72,
+						"h": 80
+					}
+				},
+				{
+					"filename": "sym_7_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 2,
+						"w": 93,
+						"h": 80
+					},
+					"frame": {
+						"x": 370,
+						"y": 1,
+						"w": 93,
+						"h": 80
+					}
+				},
+				{
+					"filename": "sym_8_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 1,
+						"w": 87,
+						"h": 80
+					},
+					"frame": {
+						"x": 1,
+						"y": 68,
+						"w": 87,
+						"h": 80
+					}
+				},
+				{
+					"filename": "sym_Wild_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 84,
+						"h": 80
+					},
+					"frame": {
+						"x": 90,
+						"y": 80,
+						"w": 84,
+						"h": 80
+					}
+				},
+				{
+					"filename": "sym_6_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 92,
+						"h": 82
+					},
+					"frame": {
+						"x": 176,
+						"y": 83,
+						"w": 92,
+						"h": 82
+					}
+				},
+				{
+					"filename": "sym_FreeSpin_000.webp",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 82
+					},
+					"frame": {
+						"x": 270,
+						"y": 83,
+						"w": 94,
+						"h": 82
+					}
+				},
+				{
+					"filename": "sym_JP_000.webp",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 94,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 93,
+						"h": 82
+					},
+					"frame": {
+						"x": 366,
+						"y": 83,
+						"w": 93,
+						"h": 82
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:a94b5f710f624fb7bbf16346320bf6a3:01ddd63451d917c8da5010400c46d2c5:c379ec4a7775e811a9a1bb0b566c3570$"
+	}
+}
